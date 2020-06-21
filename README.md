@@ -1,2 +1,4 @@
 # mini-project-I
-The repository with instructions for Mini-Project I in Data Bootcamp
+Welcome to your first mini-project. This repo contains instructions what to do during the project. Enjoy!!
+
+
