@@ -1,5 +1,6 @@
 # mini-project-I
-The repository with instructions for Mini-Project I in Data Bootcamp. 
+
+Welcome to your first **Mini Project**. This repo contains instructions what to do during the project. Enjoy!! 
 
 During this mini-project, we will work with the API from [Transport of London](https://api.tfl.gov.uk/). The main goal of this project is to practice different HTTP request and extracting values from complex lists and nested dictionaries.
 
@@ -9,6 +10,6 @@ During this mini-project, we will work with the API from [Transport of London](h
 `?app_id={app_id}&app_key={app_key}` needs to be appended to every URL in all HTTP requests.
 
 > #### Instruction
-> Once you have your credentials ready, go to the file mini-project-I.ipynb and follow the instruction in there.
+> Once you have your credentials ready, go to the file `mini-project-I.ipynb` and follow the instruction in there.
 
 
